@@ -37,6 +37,10 @@
         <div>
           <InputComponent type="password" id="personaId"  />
         </div>
+        
+        <div>
+          <CheckboxComponent id="ejemplo" type="ejemplo" color="dark">Check</CheckboxComponent>
+        </div>
 
         <!-- <div>
           <ion-button fill="outline">Default</ion-button>
@@ -51,6 +55,7 @@
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/vue';
 import ButtonComponent from '@/components/ButtonComponent.vue';
 import InputComponent from '@/components/InputComponent.vue';
+import CheckboxComponent from '@/components/CheckboxComponent.vue';
 </script>
 
 <style scoped>

@@ -31,7 +31,7 @@
           <ButtonComponent id="save" value="Agregar" fill="outline" color="success"/>  <p></p>
           <ButtonComponent id="update" value="Modificar" fill="outline" color="warning"/>  <p></p>
           <ButtonComponent id="danger" value="Eliminar" fill="outline" color="tertiary"/>  <p></p>
-          <ButtonComponent id="dark" value="Consultar" fill="outline" color="dark"/> 
+          <ButtonComponent id="dark" value="Consultarr" fill="outline" color="dark"/> 
 
         </div>
         <div>
